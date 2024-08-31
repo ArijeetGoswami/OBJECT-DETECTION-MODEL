@@ -2,5 +2,6 @@
 UNDER ORINSON TECHNOLOGIES
 
 MY PROJECT--> https://colab.research.google.com/drive/1DWvxeajgg_d87IYRPn8PnpDQbIR7VEmi?usp=sharing
+MY project (link->2)--> https://github.dev/ArijeetGoswami/OBJECT-DETECTION-MODEL/blob/main/OPEN_CV_FINAL_PROJECT.ipynb
 
 
